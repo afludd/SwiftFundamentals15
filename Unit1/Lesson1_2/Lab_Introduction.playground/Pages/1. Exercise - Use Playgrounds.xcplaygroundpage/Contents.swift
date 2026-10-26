@@ -10,7 +10,20 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
+print("My favorite song is What You Need")
+print("The artist is Tems")
 
+/*:
+ Use multiple `print` functions to write out some of the lyrics to the song.
+ */
+
+print("Okay now, sometimes")
+print("You find yourself in two ways")
+print("Yeah, yeah, yeah, sometimes")
+print("Your love, it feels divided")
+print("And my answer, my answer is to pull out")
+print("Your love is like an endless sea")
+print("It won't lead me to anywhere")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
