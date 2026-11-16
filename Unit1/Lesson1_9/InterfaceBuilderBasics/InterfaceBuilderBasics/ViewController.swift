@@ -8,7 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var welcomeLabel: UILabel!
+    
+    @IBAction func buttonPressed(_ sender: UIButton) { welcomeLabel.text = "Button Pressed!"
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
